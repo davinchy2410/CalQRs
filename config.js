@@ -1,2 +1,2 @@
 // MODIFICA ESTA URL POR LA DEL SERVICIO WEB DESPUES DE HABERLO DESPLEGADO
-const AS_URL_BASE = "https://calendar.google.com/calendar/embed?src=35595ad43f367897ef8728040a9c07382a33d36afb722ccf049b58a18fc686a3%40group.calendar.google.com&ctz=UTC";
+const AS_URL_BASE = "https://script.google.com/macros/s/AKfycbxc0Yc4gL5pesJPX23-uOPXmJR4JrEipwYTKhLYOQ0NJ59RNCe0Du9gOD1FmGR_Sf5c3A/exec";
